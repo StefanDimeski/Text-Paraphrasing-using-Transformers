@@ -2,12 +2,12 @@
 
 The project was implemented in Google Colab to utilize their powerful GPUs for training. 
 
-Model training / experiments - https://drive.google.com/file/d/1emucbSypzOVONvuulErEd_OQr6ikTF2r/view?usp=sharing
+Model training / experiments - https://colab.research.google.com/drive/16Spqzc0xAwR7Xei0KssxpOL0-pSwYn-s?usp=sharing
 
-Model deployment - https://drive.google.com/file/d/181OzB7dJ7Ps3y9G6ZCPMONWuZn1LMyY1/view?usp=sharing
+Model deployment - https://colab.research.google.com/drive/1YejNL_knCxPXnBVn8p3Mv9hK0gn5ZnSL?usp=sharing
 
 New custom metric calculation - https://colab.research.google.com/drive/1uoFiG9vbFaBeBKCdPDji8uyg-29A6ikZ?usp=sharing
 
 ROUGE-WE score calculation - https://colab.research.google.com/drive/1qMz7Il825NK8VSxIDr5frYzsOSXh6HcG?usp=sharing
 
-Plots - https://drive.google.com/file/d/1PYn3QVYXXWEAGUjP512LacM0OxZHDKVt/view?usp=sharing
+Plots - https://colab.research.google.com/drive/18JuBUTb4kz5W85IeRTyiTYYjKGCrX2ma?usp=sharing

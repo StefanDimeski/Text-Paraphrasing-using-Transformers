@@ -1,5 +1,7 @@
 # Text-Paraphrasing-using-Transformers
 
+The project was implemented in Google Colab to utilize their powerful GPUs for training. 
+
 Model training / experiments - https://drive.google.com/file/d/1emucbSypzOVONvuulErEd_OQr6ikTF2r/view?usp=sharing
 
 Model deployment - https://drive.google.com/file/d/181OzB7dJ7Ps3y9G6ZCPMONWuZn1LMyY1/view?usp=sharing
